@@ -1,0 +1,8 @@
+dependencies {
+    // 配置该项目特有的依赖
+    compile 'mysql:mysql-connector-java:5.1.37'
+    compile 'com.alibaba:druid:1.0.27'
+    compile "com.baomidou:mybatis-plus-boot-starter:3.1.0"
+    compile "org.projectlombok:lombok:1.18.2"
+
+}

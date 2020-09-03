@@ -1,0 +1,4 @@
+rootProject.name = 'yax-cloud'
+include 'com.yax.cloud.system'
+include 'com.yax.cloud.common'
+
