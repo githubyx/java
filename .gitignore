@@ -7,7 +7,6 @@
 /.settings
 /.project
 *.zip
-/build.gradle
 /.metadata/
 /.idea/
 */gradle
